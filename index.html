@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">            
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair:wght@400;700&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <h1>Color Scheme Generator</h1>
+        <nav>
+            <input class="seed-color" id="seedColor" type="color" value="#F7B0BE">
+            <select class="select-mode" id="selectMode">
+                <option value="monochrome">Monochrome</option>
+                <option value="monochrome-dark">Monochrome Dark</option>
+                <option value="monochrome-light">Monochrome Light</option>
+                <option value="analogic">Analogic</option>
+                <option value="complement">Complement</option>
+                <option value="analogic-complement">Analogic Complement</option>
+                <option value="triad">Triad</option>
+            </select>
+            <button class="get-color-btn" id="btn">Get Color Scheme</button>
+        </nav>
+        <div class="copyText" id="copy">Copy!</div>
+        <div id="colorDisplay" class="color-palette"></div>
+        <script src="index.js" type="module"></script>
+    </body>
+</html>
+
