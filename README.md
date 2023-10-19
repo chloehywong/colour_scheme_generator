@@ -1,7 +1,9 @@
 # Colour Scheme Generator
+
 This is my first API project by practicing with "fetch" request to interact with The Color API. Understanding the servers & clients. Sending request & interacting with the response in JSON format.  
 
-## Requirements
+## Requirements
+
 * Use the API from The Color API (https://www.thecolorapi.com/)
 
 ## Netlify Deployment
