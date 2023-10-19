@@ -1,9 +1,21 @@
 # Colour Scheme Generator
+This is my first API project by practicing with "fetch" request to interact with The Color API. Understanding the servers & clients. Sending request & interacting with the response in JSON format.  
 
-## Setup Netlify deployment
+## Requirements
+* Use the API from The Color API (https://www.thecolorapi.com/)
 
-TBD
+## Netlify Deployment
 
-## Run locally
+This project uses [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_deployment). In order to deploy the site using Netlify follow these steps:
 
-TBD
+* Create a new site by clicking "Add new site" button.
+* Push the repo to GitHub by linking Netlify to GitHub. 
+* Select the "Authorize Application" button to allow Netlify to access your repository code. 
+* Choose the repo that you would like to deploy from the list.
+* Configure Your Settings and then click the "Deploy site" button to continue.
+* All done! You can review the newly published site via the URL. 
+
+Note: when you  create a Merge Request, Netlify will create a preview url so you can check the changes on the browser.
+
+
+
