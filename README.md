@@ -1,6 +1,6 @@
 # Colour Scheme Generator
 
-This is my first API project by practicing with "fetch" request to interact with The Color API. Understanding the servers & clients. Sending requests & interacting with the response in JSON format.  
+This is my first API project by practicing with "fetch" request to interact with The Color API. Understanding the concept of server & client. Sending requests & interacting with the response in JSON format.  
 
 ## Requirements
 
